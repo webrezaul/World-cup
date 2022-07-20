@@ -14,6 +14,7 @@
     margin-top: 30px;
     margin-left: 5cm;
     margin-right: 6cm;
+    margin-bottom: 2cm;
 }
 
 .header-box{
@@ -63,6 +64,35 @@ border-radius: 10px;
     color: white;
     padding-left: 10px;
 }
+
+.blogs{
+
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding-left: 7cm;
+   
+   
+
+}
+
+.blogs img{
+    width: 250px;
+    height: 150px;
+    padding: 1px 1px;
+}
+
+.section2{
+
+
+}
+
+
+
+
+
+
+
+
 
 .footer{
     margin-top: 3cm;
