@@ -14,7 +14,7 @@
     margin-top: 30px;
     margin-left: 5cm;
     margin-right: 6cm;
-    margin-bottom: 2cm;
+    margin-bottom: 1cm;
 }
 
 .header-box{
@@ -69,10 +69,7 @@ border-radius: 10px;
 
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    padding-left: 7cm;
-   
-   
-
+    padding-left: 60px;
 }
 
 .blogs img{
@@ -82,13 +79,18 @@ border-radius: 10px;
 }
 
 .section2{
-
-
+    display: flex;
 }
 
-
-
-
+.blogbtn{
+    border: 1px solid red;
+    width: 260px ;
+    height: 200px;
+    margin-left: 1cm;
+    text-align: center;
+    padding:  10px 10px;
+    padding-top: 20px;
+}
 
 
 
