@@ -9,10 +9,10 @@
     background-color: black;
     border:1px solid black;
     border-radius: 30px;
-    width: 950px;
+    width: 1120px;
     height: 500px;
     margin-top: 30px;
-    margin-left: 5cm;
+    margin-left: 3cm;
     margin-right: 6cm;
     margin-bottom: 1cm;
 }
@@ -73,7 +73,7 @@ border-radius: 10px;
 }
 
 .blogs img{
-    width: 250px;
+    width: 200px;
     height: 150px;
     padding: 1px 1px;
 }
@@ -83,15 +83,62 @@ border-radius: 10px;
 }
 
 .blogbtn{
-    border: 1px solid red;
-    width: 260px ;
-    height: 200px;
-    margin-left: 1cm;
+    border: 1px solid rgb(7, 7, 7);
+    background-color: black;
+    width: 280px ;
+    height: 250px;
+    border-radius: 8px;
+    margin-left: 3cm;
     text-align: center;
-    padding:  10px 10px;
-    padding-top: 20px;
+   
 }
 
+.blogbtn1{
+    margin-top: 1cm;
+}
+
+.blogbtn2{
+    margin-top: 1cm;
+    padding-left: 50px 10px;
+}
+.blogbtn3{
+    margin-top: 1cm;
+}
+
+.blogbtn .blogbtn1 a {
+
+    color: black;
+    border: 1px solid wheat;
+    text-decoration: none;
+    background-color: white;
+    padding: 10px 10px;
+    margin-top: 20px;
+    border-radius: 6px;
+
+}
+
+.blogbtn .blogbtn2 a {
+
+    color: black;
+    border: 1px solid wheat;
+    text-decoration: none;
+    background-color: white;
+    padding: 10px 42px;
+    margin-top: 20px;
+    border-radius: 6px;
+
+}
+
+.blogbtn .blogbtn3 a {
+
+    color: rgb(255, 255, 255);
+    border: 1px solid #FF5959 ;
+    text-decoration: none;
+    background-color: rgb(236, 16, 16);
+    padding: 10px 60px;
+    margin-top: 20px;
+    border-radius: 6px;
+}
 
 
 
